@@ -16,7 +16,7 @@ header {
   height: 100vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)),
-    url("/assets/img/fondo.jpeg");
+    url("assets/img/fondo.jpeg");
   background-size: cover;
   background-position: center;
   display: flex;
