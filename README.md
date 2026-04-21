@@ -14,7 +14,7 @@ Este repositorio corresponde al trabajo final del primer curso del Bootcamp Full
 - Bootstrap 
 
 ## Ver el proyecto 
-Puedes visitar el sitio en vivo aquí: [🔗 Ver sitio]()
+Puedes visitar el sitio en vivo aquí: [🔗 Ver sitio](https://nicolascabello.github.io/CV/)
  
 ---
  
